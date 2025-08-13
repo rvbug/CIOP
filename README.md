@@ -4,13 +4,14 @@
 
 # Introduction
 
-CIOP is a multi-domain RL framework designed to optimize human-computer interaction in real time. It is composed of domain-specific agents, each focusing on a unique aspect of efficiency:
+CIOP is a multi-domain RL framework designed to optimize human-computer interaction in real time. It is composed of domain-specific RL agents, each focusing on a unique aspect of efficiency:
 - [ ] COWI (Cognitive Optimization Workflow Intelligence) — Adaptive task sequencing.
 - [ ] ACON (Autonomous Command Optimization Network) — Reduce cognitive load and execution time.
 
 
 # Paper
-This project is the foundation for the upcoming paper: `**Multi-Domain Cognitive Optimization via Real-Time Reinforcement Learning**`
+This project is the foundation for the upcoming paper: **`Multi-Domain Cognitive Optimization via Real-Time Reinforcement Learning`**
+
 The research explores:
 
 - Cross-domain RL architecture
